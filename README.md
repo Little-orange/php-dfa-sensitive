@@ -1,4 +1,4 @@
-#  php-DFA-filterWord
+# php-DFA-filterWord
 php实现基于确定有穷自动机算法的铭感词过  滤 https://packagist.org/packages/lustre/php-dfa-sensitive
 
 ##  安装&使用流程
